@@ -30,7 +30,7 @@ import java.util.Optional;
  * SqlParameterSource
  * - BeanPropertySqlParameterSource
  * - MapSqlParameterSource
- * Map
+ * - Map
  *
  * BeanPropertyRowMapper
  *
